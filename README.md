@@ -1,2 +1,3 @@
 # hello-world
-This is a little step for me.
+Ok
+I'll write down the knowledge that I gain at the "Computer Network".
